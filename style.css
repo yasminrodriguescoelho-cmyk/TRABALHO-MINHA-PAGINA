@@ -128,3 +128,10 @@ color: rgb(255, 255, 255);
 background-color: #9a4055;
 font-size: 80%;
     }
+.titulo-video {
+    font-family: 'Segoe UI', Tahoma, Ganeva, Verdana, Sans-serif
+    font-size: 20px;
+    font=weight: bold;
+    color: #333333;
+    margin-bottom: 15px;
+}
