@@ -30,9 +30,8 @@
     }
     .titulo_site{
     padding: 50px;
-
+    font-weight: bold;
     text-align: center;
-    width: 150%;
     font-size: 300%;
     }
         .container-video {
