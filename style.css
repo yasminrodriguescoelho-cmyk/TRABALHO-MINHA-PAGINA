@@ -34,16 +34,6 @@
     text-align: center;
     font-size: 300%;
     }
-        .container-video {
-    width: 100%;
-    text-align: center;
-}
-
-.container-video h3 {
-    font-size: 40px;
-    margin-bottom: 20px;
-}
-    }
     .sociais{
     display: flex;
     justify-content: flex-end;
