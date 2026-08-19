@@ -21,7 +21,7 @@
     align-items: center;
     justify-content: center;
     }
-    .cabecalho-imagem{
+    .cabecalho-imagem{https://www.moranguinho.com.br/sobre
     width: 10%;
     display: flex;
     justify-content: flex-start;
@@ -159,5 +159,5 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: #fff;
 }
