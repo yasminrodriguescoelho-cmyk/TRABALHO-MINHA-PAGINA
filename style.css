@@ -59,7 +59,7 @@ header {
 nav {
   display: flex;
   justify-content: center;
-  margin: 25px 0; /* Espaçamento entre o cabeçalho e a imagem do banner */
+  margin: 25px 0;
 }
 
 ul {
@@ -121,6 +121,7 @@ button {
 
 button:hover {
   background-color: #7a3042;
+} /* <- AQUI FALTAVA A CHAVE DE FECHAMENTO */
 
 .estudante {
   background-color: transparent;
@@ -128,7 +129,6 @@ button:hover {
   display: flex;
   justify-content: center;
 }
-
 
 .container-video {
   display: flex;
