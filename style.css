@@ -21,7 +21,7 @@
     align-items: center;
     justify-content: center;
     }
-    .cabecalho-imagem{https://www.moranguinho.com.br/sobre
+    .cabecalho-imagem{
     width: 10%;
     display: flex;
     justify-content: flex-start;
@@ -36,8 +36,8 @@
     .sociais{
     display: flex;
     justify-content: flex-end;
-    width: 25%;
-    padding-right: 30px;
+    width: 30%;
+    padding-right: 25px;
     }
     .banner1{
     display: flex;
@@ -140,7 +140,7 @@ ul {
   background-color: #ffffff; 
   display: flex;
   flex-direction: row;
-  margin-top:20%;
+  margin-top:25%;
   margin-bottom: -15%;
   margin-left:-115%;
   margin-right:65%
