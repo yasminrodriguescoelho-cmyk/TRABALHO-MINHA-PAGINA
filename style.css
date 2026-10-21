@@ -121,14 +121,14 @@ button {
 
 button:hover {
   background-color: #7a3042;
-}
 
 .estudante {
-  background-color: #FADCE5;
+  background-color: transparent;
   padding: 24px 0;
   display: flex;
   justify-content: center;
 }
+
 
 .container-video {
   display: flex;
