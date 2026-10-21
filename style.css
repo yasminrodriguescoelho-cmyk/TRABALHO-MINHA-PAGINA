@@ -143,10 +143,9 @@ h2, p {
   margin: 10px;
 }
 
-/* --- MENU CORRIGIDO --- */
 ul {
   list-style-type: none;
-  margin: 20px auto;
+  margin: 40px auto 20px auto; /* Aumentamos o espaço acima do menu */
   padding: 10px 20px;
   background-color: #ffffff; 
   display: flex;
@@ -157,7 +156,6 @@ ul {
   border-radius: 8px;
   width: fit-content;
 }
-
 ul li a {
   display: block;
   color: #9a4055;
