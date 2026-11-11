@@ -137,18 +137,16 @@ h2, p {
 
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #ffffff; 
+  background-color: #ffffff;
   display: flex;
   flex-direction: row;
-  margin-top:50%;
-
-  margin-left:-115%;
-  margin-right:65%
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 12px 24px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-
 ul li {
   float: left;
 }
